@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-timeless.svg)](https://badge.fury.io/js/react-timeless)
 
 #React-Timeless
-rewrite [Danizep's react-timeless](https://github.com/danizep/react-timeless) with react 16.8.6
+**NOT DONE** rewrite [Danizep's react-timeless](https://github.com/danizep/react-timeless) with react 16.8.6
 
 ## Installation
 
