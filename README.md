@@ -1,8 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-timeless.svg)](https://badge.fury.io/js/react-timeless)
 
 #React-Timeless
-
-A simple react timeline component for filtering data...
+rewrite [Danizep's react-timeless](https://github.com/danizep/react-timeless) with react 16.8.6
 
 ## Installation
 
@@ -55,11 +54,6 @@ function logChange(data) {
 	onChange={logChange}
 />
 ```
-
-## Example
-
-You can try it out here:
-http://danizep.com/projects/react-timeless/examples/
 
 ## License
 
